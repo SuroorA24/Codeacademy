@@ -1,0 +1,45 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100px;
+  }
+  
+  
+  h1 {
+    color: rgb(17, 210, 224);
+    text-align: center;
+    margin: 70px;
+    margin-bottom: 0px;
+  }
+  
+  
+  p {
+    font-size: 18px;
+    text-align: center;
+    font-weight: medium;
+    margin: 50px 100px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+}
+
+.opening p{
+    text-align: center;
+    padding: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#image{
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 600px;
+    width: 1400px;    
+}
+
+.footer{
+    text-align: center;
+    color:rgb(17, 210, 224);
+}
